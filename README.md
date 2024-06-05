@@ -24,18 +24,19 @@ https://github.com/laravel/breeze-next
 
 -------------------------------------------------------------------------------
 
-       git init
+      git init
 git config --global user.email "id.supat.anan@mgail.com"
 git config --global user.name "supatanan"
 git add .
 git commit -m "first commit"
 git branch -M main
-#เปลี่ยนทุกครั้ง -> git remote add origin https://github.com/supatanan/Laravel_rest_api.git
+#เปลี่ยนทุกครั้ง ->  git remote add origin https://github.com/supatanan/breeze-nextJS.git
 git push -u origin main
 
  ครั้งต่อไป
 
-git remote add origin https://github.com/supatanan/Laravel_rest_api.git
+
+git remote add origin https://github.com/supatanan/breeze-nextJS.git
 git branch -M main
 git push -u origin main
 
